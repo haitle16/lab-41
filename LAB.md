@@ -18,12 +18,6 @@ Create your first Phone App. What it does and how it looks is up to you. This is
 * Use 2 device features cohesively
     * i.e. A list of contacts with a map and phone link right next to the name
 
-### Stretch Goals:
-* Create google play and apple developer accounts
-
-###  Documentation
-Complete the README.md file included in the lab folder
-
-### Submission
-* Submit a link to your PR
-* If you developed on Snack, include your snack link in your README so that we can easily open and run your app on our devices
+### Implementation:
+* Made a button "show contacts", When it is clicked on show a scrollable list of your contacts.
+* Able to click on any of the contact links and it will prompt a option to call that contact.
