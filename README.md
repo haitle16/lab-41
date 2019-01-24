@@ -1,42 +1,19 @@
-![CF](http://i.imgur.com/7v5ASc8.png) LAB
-=================================================
+![CF](http://i.imgur.com/7v5ASc8.png) LAB - React Native
+========================================================
 
-## Project Name
 
-### Author: Student/Group Name
+## React Native Expo Mobile App
 
-### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+### Author: Hai Le
 
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
+## Assignment
+Create your first Phone App. What it does and how it looks is up to you. This is an opportunity to play around with whats possible in React Native and to get a feel for how you can get into the various device features.
 
-###### `foo(thing) -> string`
-Usage Notes or examples
+### Requirements
+* Use 2 screens
+* Use 2 device features cohesively
+    * i.e. A list of contacts with a map and phone link right next to the name
 
-###### `bar(array) -> array`
-Usage Notes or examples
-
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
-
-#### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
-
-#### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
-
-#### UML
-Link to an image of the UML for your application and response to events
+### Implementation:
+* Made a button "show contacts", When it is clicked on show a scrollable list of your contacts.
+* Able to click on any of the contact links and it will prompt a option to call that contact.
